@@ -1,0 +1,20 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "memory game",
+  "homepage": "https://github.com/nickoff/memory-game#readme",
+  "bugs": {
+    "url": "https://github.com/nickoff/memory-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickoff/memory-game.git"
+  },
+  "license": "ISC",
+  "author": "Nikolai Olekhnovich",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
